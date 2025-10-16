@@ -78,25 +78,25 @@ _cs2/addons/counterstrikesharp/config/plugins/SwindleR-KomutcuAdmin/SwindleR-Kom
 Here are some in-game screenshots of the plugin in action:
 
 <p align="center">  </b> !ka </b> </p>                                             
-<p align="center"> <img src="screenshots/isyanci1.png" alt="Isyancilar" width="600"/> </p>
+<p align="center"> <img src="screenshots/ka1.png" alt="KomutcuAdmin" width="600"/> </p>
 
 <p align="center"> </b> !ka0 </b> </p> 
-<p align="center"> <img src="screenshots/isyanci2.png" alt="Isyancilar" width="600"/> </p>
+<p align="center"> <img src="screenshots/ka2.png" alt="KomutcuAdmin" width="600"/> </p>
 
 <p align="center"> </b> SCOREBOARD TAG </b> </p> 
-<p align="center"> <img src="screenshots/isyanci3.png" alt="Isyancilar" width="600"/> </p>
+<p align="center"> <img src="screenshots/ka3.png" alt="KomutcuAdmin" width="600"/> </p>
 
 <p align="center"> </b> !kasure </b> </p> 
-<p align="center"> <img src="screenshots/isyanci3.png" alt="Isyancilar" width="600"/> </p>
+<p align="center"> <img src="screenshots/ka4.png" alt="KomutcuAdmin" width="600"/> </p>
 
 <p align="center"> </b> !kabilgi </b> </p> 
-<p align="center"> <img src="screenshots/isyanci3.png" alt="Isyancilar" width="600"/> </p>
+<p align="center"> <img src="screenshots/ka5.png" alt="KomutcuAdmin" width="600"/> </p>
 
 <p align="center"> </b> !topka </b> </p> 
-<p align="center"> <img src="screenshots/isyanci3.png" alt="Isyancilar" width="600"/> </p>
+<p align="center"> <img src="screenshots/ka6.png" alt="KomutcuAdmin" width="600"/> </p>
 
 <p align="center"> </b> !topka reset </b> </p> 
-<p align="center"> <img src="screenshots/isyanci3.png" alt="Isyancilar" width="600"/> </p>
+<p align="center"> <img src="screenshots/ka7.png" alt="KomutcuAdmin" width="600"/> </p>
 
 ---
 
